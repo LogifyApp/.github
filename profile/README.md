@@ -10,14 +10,6 @@ Logify aims to enhance the efficiency of logistics operations by integrating key
 
 ## Technologies Used
 
-Kotlin: For developing the Android application.
-Swift: For developing the iOS application.
-C# and .NET: For building the backend API.
-GraphQL: For efficient data querying and manipulation.
-Redis: For caching and real-time data processing.
-MongoDB: For storing binary files such as documents and images.
-MS SQL: For structured data storage and management.
-
 |    Functionality    | Languages |
 |--------------------:|-----------|
 | Android application |   Kotlin  |
