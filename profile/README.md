@@ -18,7 +18,7 @@ Redis: For caching and real-time data processing.
 MongoDB: For storing binary files such as documents and images.
 MS SQL: For structured data storage and management.
 
-| Rank | Languages |
+|    Functionality    | Languages |
 |--------------------:|-----------|
 | Android application |   Kotlin  |
 |   iOS application   |   Swift   |
