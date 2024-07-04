@@ -39,6 +39,9 @@ This project is licensed under the Apache License 2.0.
 
 Link to full design on Figma: https://www.figma.com/design/ii1N9CcCTpyrmEf3JUpfv0/Logistics?node-id=0-1&t=DT3O4Zk6lU830CUZ-0
 ![plot](./1.jpg)
+
 ![plot](./2.jpg)
+
 ![plot](./3.jpg)
+
 ![plot](./4.jpg)
