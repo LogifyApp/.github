@@ -10,15 +10,15 @@ Logify aims to enhance the efficiency of logistics operations by integrating key
 
 ## Technologies Used
 
-|    Functionality    | Languages |
-|--------------------:|-----------|
-| Android application |   Kotlin  |
-|   iOS application   |   Swift   |
-|     Backend API     |C# and .NET|
-|    Data Querying    |  GraphQL  |
-|       Caching       |   Redis   |
-| Storing binary files|  MongoDB  |
-|   Structured data   |   MS SQL  |
+|    Functionality    |   Languages |
+|--------------------:|-------------|
+| Android application |Kotlin+Jetpack Compose|
+| Android application |Dagger+Retrofit|
+|   iOS application   |Swift+SwiftUI|
+|     Backend API     | C# and .NET |
+|       Caching       |    Redis    |
+| Storing binary files|   MongoDB   |
+|   Structured data   |    MS SQL   |
 
 
 ## Key Features
