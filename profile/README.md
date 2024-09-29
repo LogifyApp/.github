@@ -50,3 +50,30 @@ This project is licensed under the Apache License 2.0.
 
 ### Profile
 ![Profile](./4.jpg)
+
+<br>
+
+### iOS version
+
+
+`Cargo`
+
+<img src="https://github.com/user-attachments/assets/c0cb1867-6b90-4be2-8d26-020c2e673793" width="265" >
+<img src="https://github.com/user-attachments/assets/0fc1add9-59e3-4738-8be1-c258d7660901" width="265" >
+<img src="https://github.com/user-attachments/assets/274b6e2f-2bf2-4d20-9051-28d859627c54" width="265" >
+
+<br>
+<br>
+
+`Chat`
+
+<img src="https://github.com/user-attachments/assets/294941b4-3335-4459-9bc3-0b241e997692" width="265" >
+<img src="https://github.com/user-attachments/assets/a7a42882-1b06-4078-871b-8045ff30701b" width="265" >
+
+<br>
+<br>
+
+`Profile`
+
+<img src="https://github.com/user-attachments/assets/bfdaa90b-8cb3-453a-b292-1eb2e0506195" width="265" >
+<img src="https://github.com/user-attachments/assets/285d45bd-e0e1-479b-be64-6ff202dcc2a8" width="265" >
