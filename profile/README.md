@@ -37,18 +37,20 @@ This project is licensed under the Apache License 2.0.
 
 ## How it will look like
 
+### Android version
+
 [Link to full design on Figma](https://www.figma.com/design/ii1N9CcCTpyrmEf3JUpfv0/Logistics?node-id=0-1&t=DT3O4Zk6lU830CUZ-0)
 
-### Login and Register
+#### Login and Register
 ![Login and Register](./1.jpg)
 
-### Route
+#### Route
 ![Route](./2.jpg)
 
-### Cargos
+#### Cargos
 ![Cargos](./3.jpg)
 
-### Profile
+#### Profile
 ![Profile](./4.jpg)
 
 <br>
@@ -56,7 +58,7 @@ This project is licensed under the Apache License 2.0.
 ### iOS version
 
 
-`Cargo`
+#### Cargo
 
 <img src="https://github.com/user-attachments/assets/c0cb1867-6b90-4be2-8d26-020c2e673793" width="265" >
 <img src="https://github.com/user-attachments/assets/0fc1add9-59e3-4738-8be1-c258d7660901" width="265" >
@@ -65,7 +67,7 @@ This project is licensed under the Apache License 2.0.
 <br>
 <br>
 
-`Chat`
+#### Chat
 
 <img src="https://github.com/user-attachments/assets/294941b4-3335-4459-9bc3-0b241e997692" width="265" >
 <img src="https://github.com/user-attachments/assets/a7a42882-1b06-4078-871b-8045ff30701b" width="265" >
@@ -73,7 +75,7 @@ This project is licensed under the Apache License 2.0.
 <br>
 <br>
 
-`Profile`
+#### Profile
 
 <img src="https://github.com/user-attachments/assets/bfdaa90b-8cb3-453a-b292-1eb2e0506195" width="265" >
 <img src="https://github.com/user-attachments/assets/285d45bd-e0e1-479b-be64-6ff202dcc2a8" width="265" >
